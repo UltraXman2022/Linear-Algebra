@@ -1,5 +1,5 @@
 <h1>Project Description</h1>
-The Sure Tomorrow insurance company wants to solve several tasks with the help of Machine Learning, and you are asked to evaluate that possibility.
+The Sure Tomorrow insurance company wants to solve several tasks with the help of Machine Learning, and you are asked to evaluate that possibility.<br>
 
 <ul><li>Task 1: Find customers who are similar to a given customer. This will help the company's agents with marketing</li>
 
